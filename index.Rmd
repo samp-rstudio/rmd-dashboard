@@ -34,7 +34,7 @@ thm <-
 Column {data-width=600}
 -----------------------------------------------------------------------
 
-### Sales Forecast
+### Sales Forecast (not €)
 
 ```{r}
 AirPassengers %>% 
